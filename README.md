@@ -1,4 +1,4 @@
 # handori
-play with handori! motion game
+play with hands! (motion game)
 
 FindHand : about Dll
