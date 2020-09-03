@@ -1,0 +1,2 @@
+C:\Users\somin\source\repos\FindHand\x64\Debug\FindHand.dll
+C:\Users\somin\source\repos\FindHand\x64\Debug\FindHand.pdb

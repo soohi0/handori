@@ -1,0 +1,3 @@
+----dll start----
+fail:    invalid info form err
+fail:	get info

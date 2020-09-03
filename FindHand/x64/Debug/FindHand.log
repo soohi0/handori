@@ -1,0 +1,52 @@
+﻿  findHand.cpp
+C:\Users\somin\source\repos\FindHand\findHand.cpp(91,19): warning C4267: '=': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\somin\source\repos\FindHand\findHand.cpp(117,55): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\somin\source\repos\FindHand\findHand.cpp(119,16): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\somin\source\repos\FindHand\findHand.cpp(130,19): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\somin\source\repos\FindHand\findHand.cpp(130,13): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\somin\source\repos\FindHand\findHand.cpp(152,32): warning C4244: '=': '_Tp'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\somin\source\repos\FindHand\findHand.cpp(153,32): warning C4244: '=': '_Tp'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\somin\source\repos\FindHand\findHand.cpp(167,29): warning C4267: '초기화 중': 'size_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\somin\source\repos\FindHand\findHand.cpp(170,21): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\somin\source\repos\FindHand\findHand.cpp(208,12): warning C4244: '초기화 중': 'float'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\somin\source\repos\FindHand\findHand.cpp(224,46): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\somin\source\repos\FindHand\findHand.cpp(241,55): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\somin\source\repos\FindHand\findHand.cpp(243,16): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+     C:\Users\somin\source\repos\FindHand\x64\Debug\FindHand.lib 라이브러리 및 C:\Users\somin\source\repos\FindHand\x64\Debug\FindHand.exp 개체를 생성하고 있습니다.
+  FindHand.vcxproj -> C:\Users\somin\source\repos\FindHand\x64\Debug\FindHand.dll
